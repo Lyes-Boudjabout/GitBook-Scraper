@@ -69,7 +69,7 @@ def main(gitbook_url, output_file):
     print("Done!")
 
 if __name__ == '__main__':
-    gitbook_url = 'https://docs-one.zerolend.xyz/'  # Replace with the GitBook URL
+    gitbook_url = 'https://tailwindcss.com/docs/'  # Replace with the GitBook URL
     output_file = 'documentation.md'  # Desired output markdown file
 
     main(gitbook_url, output_file)
